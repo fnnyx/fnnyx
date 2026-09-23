@@ -1,4 +1,4 @@
-# Sup! JuicerV3 :wave:
+# /Users/fnnyx
 ```md
 # About me
 ---
