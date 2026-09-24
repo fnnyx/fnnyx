@@ -3,12 +3,11 @@
 # About me
 ---
 * Im still living in a box under a bridge.
-* Programming is a hobby. AI took my job.
 
 # Activities
 ---
-* Learning: Agentic engineering
-* Active project: Something along the line...
+* Learning: ######
+* Active project: ######
 ```
 <sub>"A machine doesn't improvise well because you cannot program a fear of death. Our survival instinct is our greatest source of inspiration." — Dr. Mann</sub>
 
