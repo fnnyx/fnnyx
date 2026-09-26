@@ -1,13 +1,15 @@
-# /Users/fnnyx
+# /Users/fnnyx <sub>(fennec)</sub>
+
 ```md
 # About me
 ---
-* Im still living in a box under a bridge.
+* living in a box under a bridge.
+* Mechatronics Engineer
 
 # Activities
 ---
-* Learning: ######
-* Active project: ######
+* Learning: Robotics, Systems Design, Quant, AlgoTrading
+* Active projects: close-source-software
 ```
 <sub>"A machine doesn't improvise well because you cannot program a fear of death. Our survival instinct is our greatest source of inspiration." — Dr. Mann</sub>
 
